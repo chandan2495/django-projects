@@ -1,0 +1,13 @@
+.personal-heading{
+	background: lightslategrey !important;
+}
+.hide{
+	display: none;
+}
+.noLeftRightMargin{
+	margin-left: 0;
+	margin-right: 0;
+}
+.noPadding{
+	padding: 0;
+}
